@@ -1,4 +1,3 @@
-
 # D3 bar.
 
  D3 bar graph. See source for examples and documentation.
